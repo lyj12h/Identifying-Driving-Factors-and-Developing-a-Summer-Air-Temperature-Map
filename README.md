@@ -4,7 +4,7 @@
 This repository contains a dataset for identifying factors that influence average summer air temperature and for developing a spatial model of average summer air temperature.
 
 ## Folders
-### Variables
+### Data
 This folder includes all variables utilized in the research within the boundaries of Seoul.
 
 ### Spatial model of summer air temperature
