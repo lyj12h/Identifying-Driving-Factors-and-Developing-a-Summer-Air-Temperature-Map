@@ -1,8 +1,8 @@
 ### All variables are included in this folder.
-
+- The classification of folder follows Table 2 in the paper.
 - All variables share the same spatial reference system, as specified in the file S-DoT_variable.prj:
 
-
+\n
 PROJCS["Korea_2000_Transverse_Mercator",
     GEOGCS["KGD2002",
         DATUM["D_Korea_Geodetic_Datum_2002",
